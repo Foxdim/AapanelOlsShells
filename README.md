@@ -12,7 +12,7 @@ Setup Instructions:
 
 Create a directory named /www/foxdimShells/ and place the required script files into this directory.
 Set the directory and file permissions to 755.
-To run the scripts, schedule /www/FoxdimShell/index.sh to be called by cron at regular intervals. For example, every 1-2 minutes should be sufficient.
+To run the scripts, schedule /www/foxdimShells/index.sh to be called by cron at regular intervals. For example, every 1-2 minutes should be sufficient.
 
 
 -----------------------------------------------------------------------------------------------------------
@@ -31,4 +31,4 @@ Kurulum Talimatları:
 
 /www/foxdimShells/ dizinini oluşturun ve gerekli script dosyalarını bu dizine yerleştirin.
 Dizin ve dosyaların izinlerini 755 olarak ayarlayın.
-Script dosyalarını çalıştırmak için /www/FoxdimShell/index.sh dosyasını cron ile belirli aralıklarla çalışacak şekilde ayarlayın. Örneğin, her 1-2 dakikada bir çalışacak şekilde yapılandırabilirsiniz.
+Script dosyalarını çalıştırmak için /www/foxdimShells/index.sh dosyasını cron ile belirli aralıklarla çalışacak şekilde ayarlayın. Örneğin, her 1-2 dakikada bir çalışacak şekilde yapılandırabilirsiniz.
